@@ -1,4 +1,4 @@
-# 🌐 Whois Enumeration
+# Whois Enumeration
 
 Este script realiza una consulta WHOIS sobre un dominio específico, extrayendo información registral como fechas de creación, expiración, servidores DNS, y datos del registrante (si están disponibles).
 
